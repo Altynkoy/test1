@@ -1,0 +1,12 @@
+.helpCard {
+    width: 360px;
+    height: 360px;
+    background-color: bisque;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 34px;
+    color: rgb(248,118,18);
+    border: 1px solid;
+}
+.helpCard hr {
+    color: white;
+}
